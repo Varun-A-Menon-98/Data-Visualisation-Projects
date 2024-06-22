@@ -6,6 +6,7 @@ This repo contains data visualisation projects doen by me.
 
 * Power Bi
 * Tableau
+* Python
 
 ## Source:
 * [Scaler](https://www.scaler.com)
